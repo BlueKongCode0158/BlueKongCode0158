@@ -16,13 +16,13 @@ Hello, there! I'm learning Game Programming. Let's go together.
     ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=Windows&logoColor=white)  
 - 🌱Learning  
     ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=CSharp&logoColor=white) ![Unity](https://img.shields.io/badge/Unity-30cfd0?style=for-the-badge&logo=UnrealEngine&logoColor=white) ![Unreal](https://img.shields.io/badge/Unreal-330867?style=for-the-badge&logo=UnrealEngine&logoColor=white)   
-    
-<div align = "center">
-    
+
+<br>
+<br>
+
 [![Jisoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=BlueKongCode0158&count_private=true&show_icons=true&theme=codeSTACKr#gh-light-mode-only)](https://github.com/BlueKongCode0158)  
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bluebean920)](https://solved.ac/bluebean920/)
-    
-</div>
+
 <!--
 **BlueKongCode0158/BlueKongCode0158** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
