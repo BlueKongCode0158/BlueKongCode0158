@@ -15,7 +15,7 @@ Hello, there! I'm learning Game Programming. Let's go together.
 - 💿OS  
     ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=Windows&logoColor=white)  
 - 🌱Learning  
-    ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=CSharp&logoColor=white) ![Unity](https://img.shields.io/badge/Unity-30cfd0?style=for-the-badge&logo=UnrealEngine&logoColor=white) ![Unreal](https://img.shields.io/badge/Unreal-330867?style=for-the-badge&logo=UnrealEngine&logoColor=white)   
+    ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=CSharp&logoColor=white) ![Unity](https://img.shields.io/badge/Unity-30cfd0?style=for-the-badge&logo=Unity&logoColor=white) ![Unreal](https://img.shields.io/badge/Unreal-330867?style=for-the-badge&logo=UnrealEngine&logoColor=white)   
 
 <br>
 <br>
