@@ -7,7 +7,7 @@ Hello, there! I'm learning Game Programming. Let's go together.
 ## 📚Info
 
 - ⭐Language   
-    ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=C%2B%2B&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)  
+    ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)  
 - 📁Library  
     ![DirectX9](https://img.shields.io/badge/DirectX9-a18cd1?style=for-the-badge) ![MFC](https://img.shields.io/badge/MFC-ff867a?style=for-the-badge) ![WinApi](https://img.shields.io/badge/WinApi-cf556c?style=for-the-badge)  
 - 💻IDE  
