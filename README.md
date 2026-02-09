@@ -19,8 +19,7 @@ Hello, there! I'm learning Game Programming. Let's go together.
 
 <br>
 <br>
-
-[![Jisoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=BlueKongCode0158&count_private=true&show_icons=true&theme=codeSTACKr#gh-light-mode-only)](https://github.com/BlueKongCode0158)  
+ 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bluebean920)](https://solved.ac/bluebean920/)
 
 <!--
